@@ -2,7 +2,7 @@
 - 🧠 I’m interested in Data Analytics, Business Intelligence, and Finance
 - 🌱 I’m currently learning Python, R, SQL, Power BI, and Tableau
 - 💞️ I’m looking to collaborate on meaningful and engaging ventures/projects
-- 📫 How to reach me: My LinkedIn placed below
+- 📫 How to reach me: Pip my LinkedIn below👇🏿
 
 ## Contacts
 <a href="https://www.linkedin.com/in/daniel-eseme/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -37,7 +37,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></p>
+  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-Logo?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=blue">
+</p>
 
 ### Operating Systems
 <p> 

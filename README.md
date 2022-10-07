@@ -1,7 +1,7 @@
 - 👋 Hi, I am Daniel Eseme
 - 🧠 I’m interested in Data Analytics, Business Intelligence, and Finance
 - 🌱 I’m currently learning Python, R, SQL, Power BI, and Tableau
-- 💞️ I’m looking to collaborate on meaningful and engaging ventures/projects
+- 💞️ I’m looking to collaborate on meaningful projects, learn and unlearn. Failures in the tech field are not written on stones
 - 📫 How to reach me: Pip my LinkedIn below👇🏿
 
 ## Contacts

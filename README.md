@@ -1,8 +1,8 @@
-- 👋 Hi, I am Daniel Eseme
+- 👋 Hi, I am Daniel Elombi
 - 🧠 I’m interested in Data Analytics, Business Intelligence, and Finance
 - 🌱 I’m currently learning Python, R, SQL, Power BI, and Tableau
 - 💞️ I’m looking to collaborate on meaningful projects, learn and unlearn. Failures in the tech field are not written on stones
-- 📫 How to reach me: Pip my LinkedIn below👇🏿
+- 📫 How to reach me: LinkedIn below👇🏿
 
 ## Contacts
 <a href="https://www.linkedin.com/in/daniel-eseme/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
